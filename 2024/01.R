@@ -146,5 +146,5 @@ animate(
     anim,
     4000, fps = 60,
     width = 1200, height = 1000, 
-    renderer = gifski_renderer("2024_01/gganim_lollipop.gif")
+    renderer = gifski_renderer("2024_01/life_expectancy.gif")
 )
