@@ -2,3 +2,4 @@
 ignore
 *.Rproj
 *.Rproj.user
+.Rproj.user
